@@ -4,17 +4,17 @@
 
 > Passionate about low-level programming, open source and building cool things.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=C+Developer;Open+Source+Enthusiast;Linux+Enjoyer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=2500&color=58A6FF&center=true&vCenter=true&width=650&lines=C+Developer;Open+Source+Enthusiast;Linux+Enjoyer;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jstrieb/github-stats/master/generated/overview.svg">
-  <img src="https://raw.githubusercontent.com/jstrieb/github-stats/master/generated/languages.svg">
+  <img height="170" src="https://raw.githubusercontent.com/uriyovsiannikov/github-stats/master/generated/overview.svg">
+  <img height="170" src="https://raw.githubusercontent.com/uriyovsiannikov/github-stats/master/generated/languages.svg">
 </p>
 
 ---
@@ -22,7 +22,15 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uriyovsiannikov&theme=github-dark&hide_border=true">
+</p>
+
+---
+
+## ⚡ GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=uriyovsiannikov&theme=github-dark-blue&hide_border=true">
 </p>
 
 ---
@@ -30,7 +38,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&row=1&column=6&no-frame=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=uriyovsiannikov&theme=darkhub&row=1&column=6&no-frame=true&margin-w=10">
 </p>
 
 ---
@@ -38,15 +46,15 @@
 ## 💻 Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,git,bash,vim,vscode,cmake,github"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,bash,vim,cmake,vscode,github" />
 </p>
 
 ---
 
-## 📈 Profile Views
+## 📈 Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=uriyovsiannikov&style=for-the-badge&color=blue">
 </p>
 
 ---
@@ -54,9 +62,15 @@
 ## 📌 Featured Repository
 
 <p align="center">
+  <a href="https://github.com/kyronix-project/kyronix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyronix-project&repo=kyronix&theme=github_dark&hide_border=true">
+  </a>
+</p>
 
-<a href="https://github.com/kyronix-project/kyronix">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kyronix-project&repo=kyronix&theme=github_dark&hide_border=true">
-</a>
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/uriyovsiannikov/uriyovsiannikov/output/github-contribution-grid-snake-dark.svg">
 </p>
