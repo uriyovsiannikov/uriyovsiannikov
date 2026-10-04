@@ -19,14 +19,6 @@
 
 ---
 
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uriyovsiannikov&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ## 💻 Technologies
 
 <p align="center">
